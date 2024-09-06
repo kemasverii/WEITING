@@ -146,7 +146,7 @@ elif menu == "About Us":
                 "nama": "Kemas Veriandra Ramadhan",
                 "sebagai": "Pak Lurah",
                 "nim": "122450016",
-                "fun_fact": "malming (malam gaming)",
+                "fun_fact": "suka makan pedes, tapi ga suka efeknya",
                 "motto_hidup": "new semester new me",
             },
             {
