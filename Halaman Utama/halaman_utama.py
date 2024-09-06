@@ -135,7 +135,7 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1LYYfc9ixTUAZcwVzIXihqf9DLun73kAS",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -143,11 +143,11 @@ elif menu == "About Us":
         ]
         data_list = [
             {
-                "nama": "A",
+                "nama": "Kemas Veriandra Ramadhan",
                 "sebagai": "Pak Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "122450016",
+                "fun_fact": "malming (malam gaming)",
+                "motto_hidup": "new semester new me",
             },
             {
                 "nama": "B",
