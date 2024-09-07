@@ -16,17 +16,17 @@ Home:
 About Us:
   - Data diri dan foto anggota perlu diubah ddatanya.
 
-Folder tools
+- Folder tools
 Berisi file KREASI.py dan KREASII.py, file ini merupakan file yang akan digunakan kelompok untuk membuat tugas kelompok 
 yang akan diinfokan lebih lanjut terkait tugasnya.
 
-File main.py
+- File main.py
 Merupakan file utama dari website ini. Setiap anggota perlu menambahkan file mereka sendiri untuk buku kating, 
 dengan membuat variabel Mahasiswa1, Mahasiswa2 dst.
 Pada bagian if st.session_state.pindah terdapat dictionaru dengan key "Buku kating", Key ini perlu berisikan value yaitu variabel Mahasiswa(1-n) yang 
 file buku kating anggota
 
-File requirements.txt
+- File requirements.txt
 Sebuah file untuk menuliskan library python apa saja yang digunakan pada pengerjaan website ini.
 untuk mengecek versi library yang digunakan, 
 ketik pip freeze di cmd, setelah itu cari nama library yang digunakan untuk mengetahui versi library tersebut.
