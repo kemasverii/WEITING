@@ -140,7 +140,6 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1z6O81ggVUo5r0bSVnKnJT3zJi9fjC6W-",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-
         ]
         data_list = [
             {
@@ -166,14 +165,14 @@ elif menu == "About Us":
             },
             {
                 "nama": "D",
-                "sebagai": "Anggotaaa",
+                "sebagai": "Anggotaa",
                 "nim": "122450000",
                 "fun_fact": "nyemilin es bata",
                 "motto_hidup": "jalanin dulu aja",
             },
             {
                 "nama": "E",
-                "sebagai": "Anggota",
+                "sebagai": "Anggotaa",
                 "nim": "122450100",
                 "fun_fact": "nyemilin es bata, kiko",
                 "motto_hidup": "jalanin dulu keles",
