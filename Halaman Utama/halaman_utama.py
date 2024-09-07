@@ -166,7 +166,7 @@ elif menu == "About Us":
             },
             {
                 "nama": "D",
-                "sebagai": "Anggota",
+                "sebagai": "Anggotaaa",
                 "nim": "122450000",
                 "fun_fact": "nyemilin es bata",
                 "motto_hidup": "jalanin dulu aja",
