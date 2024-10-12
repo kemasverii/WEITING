@@ -164,10 +164,10 @@ elif menu == "About Us":
                 "motto_hidup": "mantap",
             },
             {
-                "nama": "D",
+                "nama": "Abe",
                 "sebagai": "Anggotaa",
                 "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
+                "fun_fact": "nyemilin",
                 "motto_hidup": "jalanin dulu aja",
             },
             {
